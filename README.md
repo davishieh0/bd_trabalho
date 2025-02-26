@@ -1,11 +1,10 @@
-```
-sql
+```sql
 CREATE DATABASE atividade_bd;
 USE atividade_bd;
 ```
 
 
-``` 
+```sql
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100),
@@ -35,8 +34,7 @@ CREATE TABLE transporte (
 ```
 
 
-
-``` 
+```sql
 -- Inserindo em usuarios
 INSERT INTO usuarios (nome, email, data_nascimento, senha)
 VALUES 
@@ -56,22 +54,7 @@ VALUES
     (1, 'Bicicleta', 15),
     (2, 'Ônibus', 80);
 ```
-
-> ``` status
-> Records: 2  Duplicates: 0  Warnings: 0
-> ```
-
-
-> ``` status
-> Records: 2  Duplicates: 0  Warnings: 0
-> ```
-
-
-> ``` status
-> Records: 3  Duplicates: 0  Warnings: 0
-> ```
-
-```
+```sql
 sql
 SELECT * FROM usuarios;
 SELECT * FROM dados_consumo;
