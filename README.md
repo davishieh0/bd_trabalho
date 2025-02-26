@@ -1,4 +1,5 @@
-``` 
+```
+sql
 CREATE DATABASE atividade_bd;
 USE atividade_bd;
 ```
@@ -70,7 +71,8 @@ VALUES
 > Records: 3  Duplicates: 0  Warnings: 0
 > ```
 
-``` 
+```
+sql
 SELECT * FROM usuarios;
 SELECT * FROM dados_consumo;
 SELECT * FROM transporte;
