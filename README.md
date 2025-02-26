@@ -1,7 +1,5 @@
 
 
-
-| |  |
 |--------|-------|
 | ![Spock](https://s2-gshow.glbimg.com/5mXumGvppYmAjvFCZJMV33qepCc=/0x0:2560x1440/984x0/smart/filters:strip_icc%28%29/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/k/H/ZOBPm4THSgK790coPi2w/spock.jpg) | 🖖 Saudações, humano curioso. Eu sou Spock, primeiro oficial da USS Enterprise, e fui designado para analisar este repositório que você, em sua sabedoria ou falta dela, decidiu compartilhar com a galáxia. Após uma inspeção lógica, apresento minhas observações sobre seu código SQL. |
 
